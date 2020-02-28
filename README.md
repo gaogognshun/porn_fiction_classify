@@ -9,7 +9,7 @@ Author:yudake
 date:2018/2/22
 ```
 
-项目详细解析可以参考我的这篇[博文](http://yudake.xin/articles/2018/02/22/1519289676946.html)
+项目详细解析可以参考我的这篇[博文](https://www.jqhtml.com/11520.html)
 
 ```
 考虑到社会主义核心价值观，没有上传训练集。不过data_processed中有处理过的数据集和分词集，可以直接使用。
